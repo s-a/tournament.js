@@ -1,7 +1,7 @@
 # Tournament.js
 A tournament plan system which currently supports the harmonic key number system. Feel free to add your system.
 
-[![Build Status](http://img.shields.io/travis/s-a/tournament.js.svg)](https://travis-ci.org/s-a/tournament.js)
+[![Build Status](https://travis-ci.org/s-a/tournament.js.svg?branch=master)](https://travis-ci.org/s-a/tournament.js)
 [![Coverage Status](https://coveralls.io/repos/s-a/tournament.js/badge.svg)](https://coveralls.io/r/s-a/tournament.js)
 [![Codacy Badge](https://www.codacy.com/project/badge/08570e9fb7634a91ba8fdb95a1e8a913)](https://www.codacy.com/app/stephanahlf/tournament-js)
 [![NPM Version](http://img.shields.io/npm/v/tournament.js.svg?style=flat)](https://www.npmjs.org/package/tournament.js)
