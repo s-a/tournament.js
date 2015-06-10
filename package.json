@@ -1,0 +1,36 @@
+{
+  "name": "tournament.js",
+  "author": {
+    "name": "Stephan Ahlf",
+    "email": "stephan.ahlf@gmail.com"
+  },
+  "preferGlobal": false,
+  "main": "./lib/index.js",
+  "license": "MIT & GPL3",
+  "description": "A tournament plan system",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-a/tournament.js.git"
+  },
+  "scripts": {
+    "test": "mocha",
+    "cover-html": "jscoverage lib lib-cov && mocha -R html-cov > coverage.html && rm lib-cov/*.*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "contributors": [],
+  "keywords": [
+    "tournament"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1",
+    "jscoverage": "^0.5.9",
+    "mocha-lcov-reporter": "0.0.2",
+    "coveralls": "^2.11.2"
+  }
+}
