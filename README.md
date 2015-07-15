@@ -8,8 +8,8 @@ A tournament plan system which currently supports the harmonic key number system
 [![NPM Downloads](https://img.shields.io/npm/dm/tournament.js.svg?style=flat)](https://www.npmjs.org/package/tournament.js)  
 
 [![Dependencies](https://img.shields.io/david/s-a/tournament.js.svg)](https://www.npmjs.org/package/tournament.js)
-[![Development Dependencies](https://img.shields.io/david/dev/s-a/tournament.js.svg)](https://www.npmjs.org/package/tournament.js)
-
+[![Development Dependencies](https://img.shields.io/david/dev/s-a/tournament.js.svg)](https://www.npmjs.org/package/tournament.js) 
+[![Donate](http://s-a.github.io/donate/donate.svg)](http://s-a.github.io/donate/)
 
 ## Install
 ```npm install tournament.js;```  
